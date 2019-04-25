@@ -1,1 +1,3 @@
 Programación de microservicios elaborados en lenguaje de programación Java con Framework SpringBoot, Servicios integrados con BBDD MySQL y memoria Interna en caché para pruebas.
+El primer proyecto (demo) contiene microservicios básicos los cuales consumen recursos en local y a través de estos servicios acceden a Bases de datos tratas con JPA para obtener y guardar datos.
+El segundo proyecto (RESTFull) Contiene también microservicios elaborados con Spring Boot con las operaciones básicas CRUD que acceden a una base de datos en JPA/Hibernate y a los cuales se les puede invocar desde un gestor de peticiones REST.
