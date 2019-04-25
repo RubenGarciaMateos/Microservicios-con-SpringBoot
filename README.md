@@ -1,2 +1,1 @@
-# Microservicios-con-SpringBoot
-Repositorio de microservicios diseñados con SpringBoot y bases de datos integradas MySQL
+Programación de microservicios elaborados en lenguaje de programación Java con Framework SpringBoot, Servicios integrados con BBDD MySQL y memoria Interna en caché para pruebas.
